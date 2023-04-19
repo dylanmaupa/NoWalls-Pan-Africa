@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "balooBold";
+    src: url(./Baloo2-Bold.ttf);
+}
+
+@font-face {
+    font-family: "balooSemiBold";
+    src: url(./Baloo2-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "balooRegular";
+    src: url(./Baloo2-Regular.ttf);
+}
